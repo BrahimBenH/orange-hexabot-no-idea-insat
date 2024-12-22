@@ -1,0 +1,14 @@
+{
+  "name": "exabot-plugin-example",
+  "version": "1.0.0",
+  "description": "A plugin for visualizing CSV data",
+  "main": "index.plugin.ts",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "matplotlib": "^3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "hexabot-sdk": "^1.0.0"
+  }
+}
